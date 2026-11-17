@@ -14,3 +14,6 @@ _CRT_SECURE_NO_DEPRECATE
 ```
 
 https://olgmina.gitverse.site/course-c/
+
+```
+setlocale(LC_CTYPE, ".UTF-8");
