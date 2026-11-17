@@ -12,3 +12,5 @@ main() {
 _CRT_SECURE_NO_DEPRECATE
 
 ```
+
+https://olgmina.gitverse.site/course-c/
